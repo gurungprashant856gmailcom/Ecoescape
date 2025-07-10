@@ -1,0 +1,127 @@
+body{
+    background-color:rgb(235, 223, 223);
+}
+
+.aboutStyl{
+    
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 20px
+    
+}
+.card{
+    border: 2px solid black;
+    height: 210px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 1);
+}
+.price-div{
+    font-size: large;
+}
+.card-x{
+    border: 2px;
+    height: 210px;
+    width:150px;
+    padding: 10px;
+    border-radius:8px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 1);
+}
+.price-div{
+    font-size: large;
+}
+.card-y{
+    border: 2px;
+    height: 210px;
+    width: 150px;
+    padding: 10px; 
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px 10px rgba(4, 2, 2, 1);
+}
+.price-div{
+    font-size: large;
+}
+.card-v{
+    border: 2px;
+    height: 210px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 1);
+
+}
+.card-v{
+    border: 2px;
+    height: 210px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 1);
+}
+.card-x{
+    border: 2px;
+    height: 210px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 1);
+}
+
+.roomStyl{
+    height: 400px;
+    width:auto;
+    padding: 10px;
+    box-shadow: 0 0 6px 0 rgb(56, 59, 6);
+}
+.roomStyl:hover{
+transform: translateY(-8px);
+box-shadow: 0 0 10px 3px rgb(133, 179, 153);
+
+}
+.experience{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 20px;
+    font-size: 20px;
+}
+.outsideFormDiv{
+    width: 70%;
+    height: 350px;
+    padding: 30px;
+    box-shadow: 4px 7px 4px 0 rgb(150, 37, 37);
+    background-color: azure;
+}
+.inputStyl{
+   border: 2px solid #000000;
+    margin-top: 10px;
+    width: 100%;
+    font-size: 20px;
+
+}
+.btnStyl{
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    padding: auto;
+}
+
+.amenities{
+    height: auto;
+    width:auto;
+    padding: 10px;
+    box-shadow: 0 0 6px 0 rgb(56, 59, 6);
+
+}
+.footer{
+    background-color: blue;
+    height: 200px;
+}
